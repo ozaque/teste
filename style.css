@@ -2,6 +2,10 @@ body {
    background: #BBDBF5
 }
 
+#zaque {
+   width: 100%;
+}
+
 h1 {
    text-align: center
 }
@@ -16,4 +20,8 @@ p {
 
 em strong{
     color: white;
+}
+
+.itens {
+   font-style: italic
 }
